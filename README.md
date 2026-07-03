@@ -139,7 +139,8 @@ VisDrone_Project/
 │   └── top5_objects.png
 │
 ├── outputs/
-│   ├── tracking/
+│   ├── evaluation/
+|   ├── predictions/
 │   ├── statistics/
 │   └── visualizations/
 │
@@ -181,7 +182,7 @@ VisDrone_Project/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/YOLOv8-DeepSORT-VisDrone.git
+git clone https:/Shreya140724/github.com//YOLOv8-DeepSORT-VisDrone.git
 
 cd YOLOv8-DeepSORT-VisDrone
 ```
@@ -350,16 +351,6 @@ outputs/visualizations/
 # Author
 
 **Shreya Sidabache**
-
-M.Tech Artificial Intelligence
-
-Computer Vision | Deep Learning | Machine Learning | Generative AI
-
----
-
-# License
-
-This project is licensed under the MIT License.
 
 ---
 
