@@ -182,8 +182,7 @@ VisDrone_Project/
 ## Clone Repository
 
 ```bash
-git clone https:/Shreya140724/github.com//YOLOv8-DeepSORT-VisDrone.git
-
+git clone https://github.com/Shreya140724/YOLOv8-DeepSORT-VisDrone.git  
 cd YOLOv8-DeepSORT-VisDrone
 ```
 
