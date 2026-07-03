@@ -49,7 +49,25 @@ The project also includes image prediction, video prediction, tracker evaluation
 
 ---
 
-# Dataset
+# 📂 Dataset
+
+This project uses the **VisDrone2019-DET** dataset.
+
+Due to its large size, the dataset is **not included** in this repository.
+
+Download it from the official VisDrone website and place it in the following structure:
+
+```text
+VisDrone_Data/
+│
+├── VisDrone2019-DET-train/
+│   ├── images/
+│   └── labels/
+│
+└── VisDrone2019-DET-val/
+    ├── images/
+    └── labels/
+```
 
 **Dataset:** VisDrone2019-DET
 
@@ -137,10 +155,8 @@ VisDrone_Project/
 │   └── YOLOv8_VisDrone/
 │       └── results.png          
 │
-├── visdrone.yaml
+├── VisDrone_YOLOv8_DeepSORT.ipynb
 ├── requirements.txt
-├── .gitignore
-├── LICENSE
 └── README.md
 ```
 
