@@ -152,9 +152,7 @@ VisDrone_Project/
 │   ├── tracker.py
 │   └── visualize.py
 │
-├── runs/
-│   └── YOLOv8_VisDrone/
-│       └── results.png          
+├── runs/      
 │
 ├── VisDrone_YOLOv8_DeepSORT.ipynb
 ├── requirements.txt
