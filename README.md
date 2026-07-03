@@ -132,11 +132,11 @@ Visualization
 VisDrone_Project/
 │
 ├── assets/
-│   ├── detection.png
-│   ├── tracking.png
-│   ├── object_count_bar.png
-│   ├── object_distribution_pie.png
-│   └── top5_objects.png
+│   ├── detection.jpg
+│   ├── tracking.jpg
+│   ├── object_count_bar.jpg
+│   ├── object_distribution_pie.jpg
+│   └── top5_objects.jpg
 │
 ├── outputs/
 │   ├── evaluation/
