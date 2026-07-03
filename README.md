@@ -113,16 +113,17 @@ Visualization
 ```text
 VisDrone_Project/
 │
-├── data/
+├── assets/
+│   ├── detection.png
+│   ├── tracking.png
+│   ├── object_count_bar.png
+│   ├── object_distribution_pie.png
+│   └── top5_objects.png
 │
 ├── outputs/
-│   ├── evaluation/
-│   ├── images/
 │   ├── tracking/
 │   ├── statistics/
 │   └── visualizations/
-│
-├── runs/
 │
 ├── src/
 │   ├── evaluate_detector.py
@@ -132,11 +133,15 @@ VisDrone_Project/
 │   ├── tracker.py
 │   └── visualize.py
 │
-├── Test.mp4
+├── runs/
+│   └── YOLOv8_VisDrone/
+│       └── results.png          
+│
 ├── visdrone.yaml
 ├── requirements.txt
-└── README.md
-```
+├── .gitignore
+├── LICENSE
+└── README.md```
 
 ---
 
