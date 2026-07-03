@@ -1,0 +1,19 @@
+TRACKER EVALUATION
+========================================
+Resolution      : 1920 x 1080
+Total Frames    : 778
+FPS             : 29.97
+Video Duration  : 25.96 sec
+Unique Objects  : 255
+
+Class-wise Counts
+----------------------------------------
+awning-tricycle      : 6
+bicycle              : 1
+car                  : 40
+motor                : 93
+pedestrian           : 22
+people               : 72
+tricycle             : 7
+truck                : 3
+van                  : 11
