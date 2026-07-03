@@ -134,9 +134,9 @@ VisDrone_Project/
 ├── assets/
 │   ├── detection.jpg
 │   ├── tracking.jpg
-│   ├── object_count_bar.jpg
-│   ├── object_distribution_pie.jpg
-│   └── top5_objects.jpg
+│   ├── object_count_bar.png
+│   ├── object_distribution_pie.png
+│   └── top5_objects.png
 │
 ├── outputs/
 │   ├── evaluation/
@@ -263,7 +263,7 @@ python src/visualize.py
 
 ---
 
-# Output
+# Outcome
 
 The project generates:
 
@@ -277,37 +277,21 @@ The project generates:
 
 ---
 
-# Sample Outputs
+# Outputs
 
 ## Object Detection
 
-> Add detection screenshot here.
-
-```
-outputs/images/
-```
-
----
+![Home](assets/detection.jpg)
 
 ## Multi-Object Tracking
 
-> Add tracking video screenshot here.
-
-```
-outputs/tracking/
-```
-
----
+![Home](assets/tracking.jpg)
 
 ## Visualization
 
-> Add bar chart and pie chart here.
-
-```
-outputs/visualizations/
-```
-
----
+![Home](assets/object_count_bar.png)
+![Home](assets/object_distribution_pie.png)!
+[Home](assets/top5_objects.png)
 
 ## 🚀 Future Improvements
 
