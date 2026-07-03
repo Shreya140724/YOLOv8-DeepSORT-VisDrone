@@ -290,8 +290,8 @@ The project generates:
 ## Visualization
 
 ![Home](assets/object_count_bar.png)
-![Home](assets/object_distribution_pie.png)!
-[Home](assets/top5_objects.png)
+![Home](assets/object_distribution_pie.png)
+![Home](assets/top5_objects.png)
 
 ## 🚀 Future Improvements
 
